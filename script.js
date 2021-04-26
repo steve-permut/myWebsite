@@ -23,32 +23,32 @@ $(document).ready(function(){
   });
 
   $('#p3').click(function(){
-    $('.pages').hide(1000);
-    $('#page-three').show(1000);
+    $('.pages').hide();
+    $('#page-three').show();
     $("html, body").animate({ scrollTop: 0 }, "slow");
     $('.nav-element').css("font-style","italic");
     $('#p3').css("font-style","normal");
   });
 
   $('#p4').click(function(){
-    $('.pages').hide(1000);
-    $('#page-four').show(1000);
+    $('.pages').hide();
+    $('#page-four').show();
     $("html, body").animate({ scrollTop: 0 }, "slow");
     $('.nav-element').css("font-style","italic");
     $('#p4').css("font-style","normal");
   });
 
   $('#p5').click(function(){
-    $('.pages').hide(1000);
-    $('#page-five').show(1000);
+    $('.pages').hide();
+    $('#page-five').show();
     $("html, body").animate({ scrollTop: 0 }, "slow");
     $('.nav-element').css("font-style","italic");
     $('#p5').css("font-style","normal");
   });
 
   $('#p6').click(function(){
-    $('.pages').hide(1000);
-    $('#page-six').show(1000);
+    $('.pages').hide();
+    $('#page-six').show();
     $("html, body").animate({ scrollTop: 0 }, "slow");
     $('.nav-element').css("font-style","italic");
     $('#p6').css("font-style","normal");
