@@ -76,7 +76,6 @@ body {
 }
 
 #profile-pic:hover {
-  height: inherit;
 }
 
 .clearfix::after {
