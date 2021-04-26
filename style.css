@@ -17,11 +17,15 @@ body {
   padding-bottom: 30px;
   text-decoration: none;
   font-style: italic;
+  text-shadow: 3px 3px #add8e6
+
 }
 
 .header-text:hover {
   text-decoration: none;
   font-style: normal;
+  text-shadow: 3px 3px #add8e6
+
 
 }
 
