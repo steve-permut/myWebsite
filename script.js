@@ -7,16 +7,16 @@ $(document).ready(function(){
 
   //sidebar navigation
   $('#p1').click(function(){
-    $('.pages').hide(1000);
-    $('#page-one').show(1000);
+    $('.pages').hide();
+    $('#page-one').show();
     $("html, body").animate({ scrollTop: 0 }, "slow");
     $('.nav-element').css("font-style","italic");
     $('#p1').css("font-style","normal");
   });
 
   $('#p2').click(function(){
-    $('.pages').hide(1000);
-    $('#page-two').show(1000);
+    $('.pages').hide();
+    $('#page-two').show();
     $("html, body").animate({ scrollTop: 0 }, "slow");
     $('.nav-element').css("font-style","italic");
     $('#p2').css("font-style","normal");
